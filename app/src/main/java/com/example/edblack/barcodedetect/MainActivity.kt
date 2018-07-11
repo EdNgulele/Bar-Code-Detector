@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
             .getVisionBarcodeDetector(options)
 
 
+
     private val ORIENTATIONS = SparseIntArray()
 
 
